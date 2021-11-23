@@ -656,7 +656,7 @@ cnbPower = 0
 cnbLastAction = 0
 heightPoint = 0
 
-forceChance = 1
+forceChance = 0
 
 def runDecorator(
   decorator,
