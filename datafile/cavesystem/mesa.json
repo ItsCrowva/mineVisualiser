@@ -1,0 +1,10 @@
+{
+  "caveaircolor": "gray62",
+  "block": "stone",
+  "PingFile": "1",
+  "system": "plateau",
+  "VersionFile": 1,
+  "AlwaysDo": [
+      "mesa_stone_map"
+  ]
+}

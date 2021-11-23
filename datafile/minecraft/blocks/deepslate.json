@@ -1,0 +1,9 @@
+{
+    "blockname": "deepslate",
+    "image": "assets//textures//blocks//grass.png",
+    "sizey": "1",
+    "sizex": "1",
+    "fillcol": "gray27",
+    "outcol": "gray28",
+    "system": 0
+}

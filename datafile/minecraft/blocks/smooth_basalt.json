@@ -1,0 +1,18 @@
+{
+    "blockname": "calcite",
+    "system": 1,
+    "keys": {
+        "1": "gray40",
+        "2": "gray34"
+    },
+    "scale": 2,
+    "rotation": "improved",
+    "1": [
+        "2",
+        "1"
+    ],
+    "2": [
+        "1",
+        "2"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "blockname": "grass",
+    "system": 1,
+    "keys": {
+        "1": "DarkOrange4",
+        "2": "DarkOrange4"
+    },
+    "scale": 2,
+    "rotation": "improved",
+    "1": [
+        "2",
+        "1"
+    ],
+    "2": [
+        "1",
+        "2"
+    ]
+}

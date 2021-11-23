@@ -1,0 +1,49 @@
+{
+    "feature_type": "chance",
+    "__COMMENT__": "Alright, it's out of minchance and maxchance, if random number is lower than chance but higher than min chance, feature runs.",
+    "minchance": 0,
+    "chance": 10,
+    "maxchance": 175,
+    "newfeatureset": "custom",
+    "newfeature": {
+        "feature_type": "tree",
+        "config": {
+          "max_water_depth": 0,
+          "heightmap": "OCEAN_FLOOR",
+          "trunk_provider": {
+            "type": "simple_state_provider",
+            "state": {
+              "Name": "spruce_log"
+            }
+          },
+          "leaves_provider": {
+            "type": "simple_state_provider",
+            "state": {
+              "Name": "spruce_leaves"
+            }
+          },
+          "trunk_placer": {
+            "type": "straight_trunk_placer",
+            "base_height": 5,
+            "height_rand_a": 2,
+            "height_rand_b": 1
+          },
+          "foliage_placer": {
+            "type": "spruce_foliage_placer",
+            "radius": {
+              "base": 2,
+              "spread": 1
+            },
+            "offset": {
+              "base": 0,
+              "spread": 2
+            },
+            "trunk_height": {
+              "base": 1,
+              "spread": 1
+            }
+          },
+          "decorators": []
+        }
+      }      
+  }

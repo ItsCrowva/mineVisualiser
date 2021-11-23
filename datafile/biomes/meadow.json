@@ -1,0 +1,20 @@
+{
+    "caveSystem": "default",
+    "VersionFile": 8,
+    "smoothMapping": 60,
+    "depthMapping": 2,
+    "scaleMapping": 0.2,
+    "transferSettings": {
+        "biomeEnergy": 106,
+        "tagExchange": "meadow"
+    },
+    "customisationSettings": {
+        "surfaceSetting": "default"
+    },
+    "features": {
+        "multiPick": 1,
+        "step1": [
+            "spruce_tree"
+        ]
+    }
+}

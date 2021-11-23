@@ -1,0 +1,8 @@
+{
+    "feature_type": "randomfeature",
+    "potential": [
+        "iron_ore_placer",
+        "gold_ore_placer",
+        "coal_ore_placer"
+    ]
+}

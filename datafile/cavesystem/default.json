@@ -1,0 +1,20 @@
+{
+  "caveaircolor": "gray62",
+  "block": "minecraft:stone",
+  "PingFile": "1",
+  "system": "default",
+  "VersionFile": 1,
+  "AlwaysDo": [
+      "coal_ore_placer",
+      "iron_ore_placer",
+      "gold_ore_placer",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing"
+  ]
+}

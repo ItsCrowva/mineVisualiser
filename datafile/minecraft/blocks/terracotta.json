@@ -1,0 +1,9 @@
+{
+    "blockname": "terracotta",
+    "image": "assets//textures//blocks//grass.png",
+    "sizey": "1",
+    "sizex": "1",
+    "fillcol": "sienna1",
+    "outcol": "sienna1",
+    "system": 0
+}

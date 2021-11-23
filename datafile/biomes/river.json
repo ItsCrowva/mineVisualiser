@@ -1,0 +1,32 @@
+{
+    "PingFile": "River >",
+    "cavesystem": "default",
+    "VersionFile": 6,
+    "scaling": 1,
+    "smoothness": 60,
+    "forcetop": 68,
+    "naturaltopy": 63,
+    "naturalbottomy": 58,
+    "forcebottom": 55,
+    "skycolour": "skyblue2",
+    "surface": "river",
+    "biomecolour": "green4",
+    "oceancolour": "steelblue4",
+    "__Comment2__": "3D Generation Tagging",
+    "magnetism": 50,
+
+    "__Comment__": "Biome Passoff Stuff",
+
+    "biomefallout": 20,
+    "biomepower": 146,
+
+    "1": [
+        "riverup"
+    ],
+    "2": [
+        "riverup"
+    ],
+    "3": [
+        "riverup"
+    ]
+}

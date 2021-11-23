@@ -1,0 +1,10 @@
+{
+    "biomes": [
+        "plains",
+        "desert",
+        "mesa",
+        "mesa_plateau",
+        "river",
+        "ocean"
+    ]
+}

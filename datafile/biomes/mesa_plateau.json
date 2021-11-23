@@ -1,0 +1,26 @@
+{
+    "PingFile": "Mesa Plateau",
+    "cavesystem": "mesa",
+    "VersionFile": 7,
+    "scaling": 3,
+    "smoothness": 20,
+    "forcetop": 95,
+    "naturaltopy": 90,
+    "naturalbottomy": 85,
+    "forcebottom": 80,
+    "biomecolour": "green4",
+    "oceancolour": "steelblue4",
+    "oceanenabled": "true",
+    "skycolour": "skyblue1",
+    "surface": "mesa_plateau",
+    "__Comment2__": "3D Generation Tagging",
+    "magnetism": 50,
+
+    "__Comment__": "Biome Passoff Stuff",
+    "biomepower": 286,
+    "biomechoosertag": "mesa",
+
+    "alwaysdo": [
+        "nothing"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "blockname": "grass",
+    "system": 1,
+    "keys": {
+        "1": "gray47",
+        "2": "gold"
+    },
+    "scale": 2,
+    "rotation": "improved",
+    "1": [
+        "2",
+        "1"
+    ],
+    "2": [
+        "1",
+        "2"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "caveaircolor": "gray62",
+  "block": "stone",
+  "PingFile": "1",
+  "system": "default",
+  "VersionFile": 1,
+  "AlwaysDo": [
+      "default//chance_on_deeper"
+  ]
+}

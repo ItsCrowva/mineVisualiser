@@ -1,0 +1,34 @@
+{
+    "PingFile": "Taiga",
+    "cavesystem": "default",
+    "VersionFile": 6,
+    "scaling": 1,
+    "smoothness": 60,
+    "forcetop": 75,
+    "naturaltopy": 70,
+    "naturalbottomy": 65,
+    "forcebottom": 62,
+    "biomecolour": "green4",
+    "oceancolour": "steelblue4",
+    "oceanenabled": "true",
+    "skycolour": "steelblue1",
+    "surface": "default",
+    "__Comment2__": "3D Generation Tagging",
+    "magnetism": 50,
+
+    "__Comment__": "Biome Passoff Stuff",
+
+    "biomefallout": 20,
+    "biomepower": 146,
+
+    "1": [
+        "plains"
+    ],
+    "2": [
+        "desert",
+        "mesa"
+    ],
+    "3": [
+        "beach"
+    ]
+}

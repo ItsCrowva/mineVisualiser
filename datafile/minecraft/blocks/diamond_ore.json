@@ -1,0 +1,18 @@
+{
+    "blockname": "grass",
+    "system": 1,
+    "keys": {
+        "1": "gray47",
+        "2": "aqua"
+    },
+    "scale": 2,
+    "rotation": "xy-flip",
+    "1": [
+        "2",
+        "1"
+    ],
+    "2": [
+        "1",
+        "2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "blockname": "oak_log",
+    "image": "assets//textures//blocks//grass.png",
+    "sizey": "1",
+    "sizex": "1",
+    "fillcol": "brown3",
+    "outcol": "brown4",
+    "system": 0
+}

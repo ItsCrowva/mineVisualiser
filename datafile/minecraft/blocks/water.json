@@ -1,0 +1,9 @@
+{
+    "blockname": "water",
+    "image": "assets//textures//blocks//grass.png",
+    "sizey": "1",
+    "sizex": "1",
+    "fillcol": "blue",
+    "outcol": "blue",
+    "system": 0
+}

@@ -1,0 +1,9 @@
+{
+    "feature_type": "chance",
+    "__COMMENT__": "Alright, it's out of minchance and maxchance, if random number is lower than chance but higher than min chance, feature runs.",
+    "minchance": 0,
+    "chance": 20,
+    "maxchance": 40,
+    "newfeatureset": "reference",
+    "newfeature": "default//set_to_coal"
+}

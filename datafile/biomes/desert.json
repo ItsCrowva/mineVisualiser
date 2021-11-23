@@ -1,0 +1,27 @@
+{
+    "PingFile": "Desert",
+    "cavesystem": "default",
+    "VersionFile": 7,
+    "scaling": 1,
+    "smoothness": 80,
+    "forcetop": 75,
+    "naturaltopy": 70,
+    "naturalbottomy": 65,
+    "forcebottom": 62,
+    "skycolour": "skyblue1",
+    "oceancolour": "steelblue4",
+    "oceanenabled": "true",
+    "biomecolour": "goldenrod",
+    "surface": "desert",
+    "__Comment2__": "3D Generation Tagging",
+    "magnetism": 50,
+
+    "__Comment__": "Biome Passoff Stuff",
+
+    "biomepower": 486,
+
+    "biomechoosertag": "plains_default",
+    "alwaysdo": [
+        "nothing"
+    ]
+}

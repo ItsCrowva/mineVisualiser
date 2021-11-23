@@ -1,0 +1,21 @@
+{
+                    "feature_type": "heightchance",
+                    "___COMMENT___": "So the point of this is to have two heights. and A & B. The closer to B the number is, The more chance newfeature is fired",
+                    "lowercoord": 0,
+                    "highercoord": 70,
+                    "chance": 0.1,
+                    "newfeatureset": "custom",
+                    "newfeature": {
+                        "feature_type": "blockthenfeature",
+                        "block": "stone",    
+                        "newfeatureset": "custom",
+                        "newfeature": {
+                            "feature_type": "randomfeature",
+                            "potential": [
+                                "iron_ore_placer",
+                                "gold_ore_placer",
+                                "coal_ore_placer"
+                            ]
+                        }
+                    }
+                }

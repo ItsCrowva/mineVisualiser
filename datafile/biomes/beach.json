@@ -1,0 +1,32 @@
+{
+    "PingFile": "Beach",
+    "cavesystem": "default",
+    "VersionFile": 6,
+    "scaling": 1,
+    "smoothness": 60,
+    "forcetop": 75,
+    "naturaltopy": 70,
+    "naturalbottomy": 65,
+    "forcebottom": 62,
+    "surface": "desert",
+    "skycolour": "skyblue2",
+    "biomecolour": "green4",
+    "oceancolour": "steelblue4",
+    "__Comment2__": "3D Generation Tagging",
+    "magnetism": 50,
+
+    "__Comment__": "Biome Passoff Stuff",
+
+    "biomefallout": 20,
+    "biomepower": 146,
+
+    "1": [
+        "ocean"
+    ],
+    "2": [
+        "ocean"
+    ],
+    "3": [
+        "ocean"
+    ]
+}

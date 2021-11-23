@@ -1,0 +1,9 @@
+{
+    "feature_type": "heightchance",
+    "___COMMENT___": "So the point of this is to have two heights. and A & B. The closer to B the number is, The more chance newfeature is fired",
+    "lowercoord": 0,
+    "highercoord": 60,
+    "chance": 40,
+    "newfeatureset": "reference",
+    "newfeature": "default//dirtfordeep"
+}

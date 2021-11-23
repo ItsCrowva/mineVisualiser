@@ -1,0 +1,9 @@
+{
+    "blockname": "snow",
+    "image": "assets//textures//blocks//grass.png",
+    "sizey": "1",
+    "sizex": "1",
+    "fillcol": "gray96",
+    "outcol": "gray48",
+    "system": 0
+}

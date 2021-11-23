@@ -1,0 +1,33 @@
+{
+    "Comment": "This uses the Aspiron Guidelines for running a code like thing through JSON",
+    "This will be a big file so,": "Be careful not to break!",
+    "Last Edited": "31/8/21- 9:12am",
+
+    "generator:system": "Spark",
+
+    "Alright so first, These files will determine how blocks are drawn": "",
+    "generator:size": 2.55,
+    "generator:by_x": 1,
+    "generator:by_y": 1,
+
+    "starting:xpos": 0,
+    "starting:height": 65,
+
+    "height:max_y": 255,
+    "height:min_y": 0,
+    "height:surface_level": 70,
+
+    "generator:biome_scale": 1,
+
+    "Alright. Now We wanna go through individual features of the generator!": "These can be either True or False",
+    "setting:surface_enabled": "True",
+    "setting:undersurface_enabled": "True",
+    "setting:caves_enabled": "True",
+    "setting:features_in_caves": "False",
+    "setting:sealevelwater": "True",
+    "setting:features_on_surface": "True",
+    "setting:single_thread_blocks": "True",
+    "setting:multi_thread_blocks": "True",
+    "setting:sky_enabled": "False",
+    "setting:sky_color_all": "skyblue1"
+}
